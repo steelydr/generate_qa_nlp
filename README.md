@@ -2,10 +2,16 @@
 <video controls src="QandAgeneratorf.mp4" title="Title"></video>
 
 ---
-title: "NLTK Usage in Flask Test Generator"
-output: html_document
+"NLTK Usage in Flask Test Generator"
 ---
 
+![alt text](image.png)
+
+
+![alt text](image-2.png)
+
+
+![alt text](image-1.png)
 ## 1. Sentence Tokenization and Parsing
 
 The application starts by using NLTK's powerful sentence tokenizer to break the input text into individual sentences. This step is crucial for managing large paragraphs and handling them sentence by sentence, allowing for targeted analysis and question generation. By tokenizing the text, the code ensures that each sentence can be separately processed, which lays the foundation for effective NLP-driven question creation.
